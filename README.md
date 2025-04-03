@@ -1,4 +1,4 @@
-# Parkers Pterodactyl eggs repo
+# Luke's Custom Ptero Egg(s)
 
 I am working on adding a large collection of public eggs for the Pterodactyl community.
 
